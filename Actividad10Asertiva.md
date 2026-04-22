@@ -1,4 +1,4 @@
-# Actividad Práctica 10 — Propuesta Persuasiva de 3 Minutos
+# Actividad Práctica 10 
  
 **Universidad de San Carlos de Guatemala**  
 **Facultad de Ingeniería — Escuela de Ingeniería en Ciencias y Sistemas**  
@@ -6,7 +6,7 @@
  
 **Integrantes:**
 - Astrid Sánchez
-- Nicolle Gómez 
+- Nicolle Gómez - 202503869
 - Jeimy González
 **Caso seleccionado:** Tarjeta 6 — Implementar control de versiones con Git
  
@@ -110,3 +110,10 @@ Y el beneficio de usar esto es muy grande. Ya no habrá archivos borrados por ac
 **Pregunta 3:** ¿Esto cuesta dinero o también necesitamos computadoras especiales?
 
 **Respuesta:** Para nada, es una herramienta gratuita y también funciona perfectamente en cualquier computadora que ya estemos usando. Solo necesitamos organizarnos un poco más.
+
+---
+## Capturas del rendimiento en DTT
+### Danya Nicolle Gómez Ruiz 202503869:
+<img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/aff7513f-5266-4699-ad6c-f74273cec421" />
+
+---
