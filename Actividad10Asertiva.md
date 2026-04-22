@@ -8,6 +8,7 @@
 - Astrid Sánchez
 - Nicolle Gómez - 202503869
 - Jeimy González
+
 **Caso seleccionado:** Tarjeta 6 — Implementar control de versiones con Git
  
 ---
