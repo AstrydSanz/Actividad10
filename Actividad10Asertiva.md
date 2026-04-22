@@ -6,7 +6,7 @@
  
 **Integrantes:**
 - Astrid Sánchez
-- Nicolle Gómez
+- Nicolle Gómez 
 - Jeimy González
 **Caso seleccionado:** Tarjeta 6 — Implementar control de versiones con Git
  
@@ -28,7 +28,6 @@ Actualmente, el equipo trabaja modificando archivos de forma simultánea y sin n
 - **Riesgo en las entregas:** en más de una ocasión se ha enviado una versión incorrecta o incompleta del trabajo porque no había certeza de cuál archivo era el definitivo.
 Este caos no es inevitable. Es el resultado directo de no contar con un sistema de control de versiones. Cada hora invertida en reconciliar archivos o buscar versiones perdidas es una hora que no se invierte en desarrollar ni mejorar el proyecto.
   
----
  
 ### Evidencia
  
@@ -39,7 +38,7 @@ Los datos respaldan que este no es un problema aislado de nuestro equipo, sino u
 - Según datos de **GitHub Education**, más del **70% de los proyectos universitarios** que presentan errores graves en su entrega final tienen como causa raíz la falta de control sobre las versiones del código, incluyendo sobreescrituras accidentales y uso de versiones incorrectas.
 - A nivel práctico, un repositorio de Git conserva el **historial completo de cada cambio** realizado en el proyecto: quién lo hizo, cuándo y por qué. Esto permite revertir errores en segundos, algo imposible con el sistema actual.
 En nuestro contexto específico como equipo de Ingeniería en Ciencias y Sistemas, ya contamos con exposición a Git en otras asignaturas. La curva de aprendizaje no es una barrera: es una inversión puntual de menos de 30 minutos para dominar los comandos esenciales. El costo de no adoptarlo, en cambio, se paga en cada ciclo de entrega con errores evitables, tiempo perdido y estrés innecesario.
----
+
 
 ## Solución
 
@@ -56,7 +55,7 @@ La solución es simple, gratuita y está al alcance del equipo: **adoptar Git** 
 **Implementación inmediata:**  
 Creamos el repositorio en 2 minutos. Cada una clona, crea su rama y empieza a trabajar. Los comandos básicos se aprenden en menos de 30 minutos.
 
----
+
 
 ## Beneficio
 
@@ -73,3 +72,41 @@ Creamos el repositorio en 2 minutos. Cada una clona, crea su rama y empieza a tr
 **6. Preparación para la industria:** Git lo usa el 93.9% de los desarrolladores profesionales. Dominarlo ahora es ventaja para prácticas y empleo.
 
 **En resumen:** con Git ganamos tiempo, calidad, orden y tranquilidad. No cuesta dinero, la inversión de aprendizaje es mínima y los beneficios son inmediatos.
+
+
+
+## Presentación de la propuesta
+
+
+
+<img width="1920" height="1080" alt="Proyecto Creativo" src="https://github.com/user-attachments/assets/04c97fe4-b7cb-41e4-9f78-60b83b536748" />
+
+Hola a todos. Hoy quiero hablarles de un problema que tenemos. Muchas veces estamos trabajando en grupo y terminamos con archivos que se llaman 'proyecto_final' y que luego resulta ser 'proyecto_final_de_verdad' y asi entre otros parecidos pero con nombres cambiados. Y esto pasa porque varias personas modifican los mismos documentos al mismo tiempo y sin ningún orden.
+
+<img width="1920" height="1080" alt="Proyecto Creativo (1)" src="https://github.com/user-attachments/assets/6b3608da-23bc-4820-b1af-267a4128ec4a" />
+
+Luego, la prueba de que esto nos afecta es el tiempo que perdemos. Hemos perdido información valiosa porque alguien guardó su archivo encima del de otro compañero sin darse cuenta. Y tratar de juntar el trabajo de todos manualmente al final del día es muy difícil, y también nos retrasa mucho en nuestras entregas.
+
+<img width="1920" height="1080" alt="Proyecto Creativo (2)" src="https://github.com/user-attachments/assets/0e707ed6-39df-44c5-8042-df4ff35ae207" />
+
+Entonces, la solución que propongo hoy es implementar Git como nuestro control de versiones. Piénsenlo como si fuera una máquina del tiempo para nuestro proyecto. En lugar de pasarnos archivos por correo o tener mil copias distintas, Git guarda un historial exacto de quién hizo qué cambio, y también en qué momento lo hizo.
+
+<img width="1920" height="1080" alt="Proyecto Creativo (3)" src="https://github.com/user-attachments/assets/b5b762b5-77bd-4a1a-8316-c61ab42b287e" />
+
+Y el beneficio de usar esto es muy grande. Ya no habrá archivos borrados por accidente, y si alguien se equivoca, podemos regresar a la versión de ayer muy fácil. Luego, todos podremos trabajar al mismo tiempo y con mucha más tranquilidad.
+
+
+
+## preguntas y respuestas (Q&A)
+
+**Pregunta 1:** ¿Pero aprender a usar Git no nos va a quitar mucho tiempo y es muy difícil?
+
+**Respuesta:** Al principio sí requiere aprender un par de pasos nuevos, pero luego es como aprender a andar en bicicleta, se hace casi en automático. Y también, el tiempo que invertimos aprendiendo lo vamos a recuperar muy rápido, porque ya no perderemos horas intentando arreglar trabajos borrados.
+
+**Pregunta 2:** ¿Y qué pasa si dos personas cambian exactamente la misma parte al mismo tiempo?
+
+**Respuesta:** Esa es la mejor parte. El sistema es inteligente y no deja que uno borre lo del otro en silencio. Luego, si hay un choque en el documento, el sistema hace una pausa y nos avisa. Así nosotros tenemos siempre el control y decidimos qué versión queremos dejar.
+
+**Pregunta 3:** ¿Esto cuesta dinero o también necesitamos computadoras especiales?
+
+**Respuesta:** Para nada, es una herramienta gratuita y también funciona perfectamente en cualquier computadora que ya estemos usando. Solo necesitamos organizarnos un poco más.
