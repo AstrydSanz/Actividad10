@@ -40,3 +40,36 @@ Los datos respaldan que este no es un problema aislado de nuestro equipo, sino u
 - A nivel práctico, un repositorio de Git conserva el **historial completo de cada cambio** realizado en el proyecto: quién lo hizo, cuándo y por qué. Esto permite revertir errores en segundos, algo imposible con el sistema actual.
 En nuestro contexto específico como equipo de Ingeniería en Ciencias y Sistemas, ya contamos con exposición a Git en otras asignaturas. La curva de aprendizaje no es una barrera: es una inversión puntual de menos de 30 minutos para dominar los comandos esenciales. El costo de no adoptarlo, en cambio, se paga en cada ciclo de entrega con errores evitables, tiempo perdido y estrés innecesario.
 ---
+
+## Solución
+
+La solución es simple, gratuita y está al alcance del equipo: **adoptar Git** como sistema de control de versiones, con un flujo de trabajo sencillo para proyectos académicos.
+
+**¿Cómo funciona?**
+
+- **Repositorio compartido:** todo el código se aloja en GitHub. Todos acceden al mismo lugar.
+- **Ramas individuales:** cada integrante trabaja en su propia rama. Así pueden modificar archivos al mismo tiempo sin pisarse.
+- **Commits descriptivos:** cada cambio se guarda con un mensaje claro sobre qué se hizo y por qué.
+- **Merge requests:** antes de unir cambios al proyecto principal, el equipo revisa y aprueba. Nadie sobrescribe nada sin consenso.
+- **Resolución de conflictos:** si dos personas modificaron la misma línea, Git lo detecta y permite resolverlo sin perder información.
+
+**Implementación inmediata:**  
+Creamos el repositorio en 2 minutos. Cada una clona, crea su rama y empieza a trabajar. Los comandos básicos se aprenden en menos de 30 minutos.
+
+---
+
+## Beneficio
+
+**1. Fin a la pérdida de información:** nunca más se sobrescribirán cambios. Cada versión queda guardada.
+
+**2. Trazabilidad total:** sabemos quién hizo qué cambio, cuándo y por qué. Si aparece un error, sabemos en qué momento se introdujo.
+
+**3. Trabajo paralelo sin conflictos:** todas modifican archivos al mismo tiempo sin pisarse. Las ramas lo permiten.
+
+**4. Adiós al caos de versiones:** desaparecen los `final_v2_ESTE_SI.java`. Git maneja las versiones de forma ordenada.
+
+**5. Menos estrés y mensajes:** no más "ya subí mi parte, no le muevas". Git coordina todo.
+
+**6. Preparación para la industria:** Git lo usa el 93.9% de los desarrolladores profesionales. Dominarlo ahora es ventaja para prácticas y empleo.
+
+**En resumen:** con Git ganamos tiempo, calidad, orden y tranquilidad. No cuesta dinero, la inversión de aprendizaje es mínima y los beneficios son inmediatos.
