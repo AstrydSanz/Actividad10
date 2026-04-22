@@ -5,9 +5,9 @@
 **Curso: Comunicación Asertiva**
  
 **Integrantes:**
-- Astrid Sánchez
+- Astrid Sánchez - 202503945
 - Nicolle Gómez - 202503869
-- Jeimy González
+- Jeimy González - 202504807
 
 **Caso seleccionado:** Tarjeta 6 — Implementar control de versiones con Git
  
