@@ -115,7 +115,7 @@ Y el beneficio de usar esto es muy grande. Ya no habrá archivos borrados por ac
 ---
 ## Capturas del rendimiento en DTT
 ### Danya Nicolle Gómez Ruiz 202503869:
-<img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/16f0894b-6d39-4dac-837c-936cbd1abb76" />
+<img width="550" height="300" alt="image" src="https://github.com/AstrydSanz/Actividad10/blob/main/Capturas/Captura%20de%20pantalla%202026-04-21%20204557.png" />
 
 
 ### Astrid Sánchez 
